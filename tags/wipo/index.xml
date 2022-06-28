@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>WIPO - tag - Cruz del Sur</title>
+        <link>http://vaya-lluvia.github.io/tags/wipo/</link>
+        <description>WIPO - tag - Cruz del Sur</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://vaya-lluvia.github.io/tags/wipo/" rel="self" type="application/rss+xml" /><item>
+    <title>Note on WIPO Rules</title>
+    <link>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</link>
+    <pubDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</pubDate><author>
+                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
