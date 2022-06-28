@@ -8,6 +8,6 @@
     <link>https://vaya-lluvia.github.io/posts/create-blog-with-hugo/</link>
     <pubDate>Wed, 02 Feb 2022 00:00:00 &#43;0000</pubDate><author>
                     <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>https://vaya-lluvia.github.io/posts/create-blog-with-hugo/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[This post shares the steps that I performed to build personal blog on GitHub Pages using Hugo theme. &nbsp; <![if !supportLists]>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <![endif]>Create Hugo Site &nbsp; cd ~/Documents hugo new site lluvia-blog &nbsp; <![if !supportLists]>II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <![endif]>Choose Hugo Theme &amp; Clone + Edit Configuration File &nbsp; cd themes git init git submodule add git@github.com:HEIGE-PCloud/DoIt.git DoIt &nbsp; <![if !supportLists]>III.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <![endif]>Create New Post &nbsp; cd ~/Documents cd lluvia-blog hugo new posts/my-first-post.md &nbsp; <![if !supportLists]>IV.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]]></description>
 </item></channel>
 </rss>
