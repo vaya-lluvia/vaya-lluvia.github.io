@@ -1,13 +1,13 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>WIPO - tag - Cruz del Sur</title>
-        <link>http://vaya-lluvia.github.io/tags/wipo/</link>
-        <description>WIPO - tag - Cruz del Sur</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://vaya-lluvia.github.io/tags/wipo/" rel="self" type="application/rss+xml" /><item>
+        <title>WIPO - tag - 南十字座</title>
+        <link>https://vaya-lluvia.github.io/tags/wipo/</link>
+        <description>WIPO - tag - 南十字座</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://vaya-lluvia.github.io/tags/wipo/" rel="self" type="application/rss+xml" /><item>
     <title>Note on WIPO Rules</title>
-    <link>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</link>
+    <link>https://vaya-lluvia.github.io/posts/note-on-wipo-rules/</link>
     <pubDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</pubDate><author>
-                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</guid>
-    <description><![CDATA[]]></description>
+                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>https://vaya-lluvia.github.io/posts/note-on-wipo-rules/</guid>
+    <description><![CDATA[WIPO Rules, first promulgated in 1994, have been updated several times to reflect modern trends of alternative dispute resolution. This note provides an overview of major changes in WIPO Rules, taking into account the revisions in 2014, 2020, and 2021. In addition, this note also helps understand the reasons why WIPO rules are particularly appropriate for intellectual property and technology related disputes and meanwhile remain relevant for settling all commercial disputes, including those that do not involve intellectual property.]]></description>
 </item></channel>
 </rss>

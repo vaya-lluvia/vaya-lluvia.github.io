@@ -1,19 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ARB &amp; MED - tag - Cruz del Sur</title>
-        <link>http://vaya-lluvia.github.io/tags/arb-med/</link>
-        <description>ARB &amp; MED - tag - Cruz del Sur</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://vaya-lluvia.github.io/tags/arb-med/" rel="self" type="application/rss+xml" /><item>
+        <title>ARB &amp; MED - tag - 南十字座</title>
+        <link>https://vaya-lluvia.github.io/tags/arb-med/</link>
+        <description>ARB &amp; MED - tag - 南十字座</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://vaya-lluvia.github.io/tags/arb-med/" rel="self" type="application/rss+xml" /><item>
     <title>Note on WIPO Rules</title>
-    <link>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</link>
+    <link>https://vaya-lluvia.github.io/posts/note-on-wipo-rules/</link>
     <pubDate>Wed, 01 Jun 2022 00:00:00 &#43;0000</pubDate><author>
-                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>http://vaya-lluvia.github.io/posts/note-on-wipo-rules/</guid>
-    <description><![CDATA[]]></description>
+                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>https://vaya-lluvia.github.io/posts/note-on-wipo-rules/</guid>
+    <description><![CDATA[WIPO Rules, first promulgated in 1994, have been updated several times to reflect modern trends of alternative dispute resolution. This note provides an overview of major changes in WIPO Rules, taking into account the revisions in 2014, 2020, and 2021. In addition, this note also helps understand the reasons why WIPO rules are particularly appropriate for intellectual property and technology related disputes and meanwhile remain relevant for settling all commercial disputes, including those that do not involve intellectual property.]]></description>
 </item><item>
     <title>Recent Trends and Developments in IP and ADR: China</title>
-    <link>http://vaya-lluvia.github.io/posts/recent-trends-and-developments/</link>
+    <link>https://vaya-lluvia.github.io/posts/recent-trends-and-developments/</link>
     <pubDate>Sun, 15 May 2022 00:00:00 &#43;0000</pubDate><author>
-                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>http://vaya-lluvia.github.io/posts/recent-trends-and-developments/</guid>
-    <description><![CDATA[]]></description>
+                    <name>Lluvia</name><uri>https://github.com/vaya-lluvia</uri></author><guid>https://vaya-lluvia.github.io/posts/recent-trends-and-developments/</guid>
+    <description><![CDATA[This post summarizes recent trends and developments [policies, legislations, regulations, and judicial decisions] in China in the field of intellectual property and innovation, especially with regard to arbitration and mediation.
+&nbsp;
+China Policy – I. Expanding the Opening-Up of Commercial Arbitration Services
+A brand-new chapter for international arbitral institutions to set up business organizations in China.
+August 2019
+Shanghai
+Foreign arbitral institutions permitted to conduct arbitration businesses in Shanghai’s pilot free trade zone.]]></description>
 </item></channel>
 </rss>
